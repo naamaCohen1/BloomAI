@@ -2,11 +2,11 @@
     "compilerOptions": {
       "target": "ES2020",
       "module": "CommonJS",
-      "rootDir": "src",
+      "rootDir": "server/srcomai-ui/src",
       "outDir": "dist",
       "esModuleInterop": true,
       "strict": true,
       "moduleResolution": "node"
     },
-    "include": ["src"]
+    "include": ["server/srcomai-ui/src"]
   }
